@@ -28,9 +28,8 @@ I like technologies, programming, design, International Relations, art, games, u
  <br/>For more informations talk to me on:<br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/wennycampos/)](https://www.linkedin.com/in/wennycampos/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:wennyct@hotmail.com%22/%3E)](mailto:wennyct@gmail.com)
 
- <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wennycampos&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wennyc&layout=compact&theme=tokyonight)
-<br>Welcome and see u! -->
-
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wennycampos&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wennyc&layout=compact&theme=tokyonight)
+<br>Welcome and see u!
 <br>
 
-![Snake animation](https://github.com/wennycampos/wennycampos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/wennycampos/wennyc/blob/output/github-contribution-grid-snake.svg)
