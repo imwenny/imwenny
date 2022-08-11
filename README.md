@@ -1,4 +1,4 @@
-# Hello, I'am Wenny Campos. ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68281298/119243223-2ac5c200-bb3b-11eb-9d6f-2b6d98fa3c9e.gif)
+# Hello, I'am Wenny. ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68281298/119243223-2ac5c200-bb3b-11eb-9d6f-2b6d98fa3c9e.gif)
 ### I'm in Rio de Janeiro, Brazil. In love for tech and design.
 I like technologies, programming, design, International Relations, art, games, ukulele and series.
 <br/>Nowadays, I'm work web developer creating websites/applications mobile together with Ux/Ui Design responsive and intuitive
@@ -22,7 +22,7 @@ I like technologies, programming, design, International Relations, art, games, u
  <br/>For more informations talk to me on:<br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/wennycampos/)](https://www.linkedin.com/in/wennycampos/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:wennyct@hotmail.com%22/%3E)](mailto:wennyct@gmail.com)
 
- <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wennycampos&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wennycampos&layout=compact&theme=tokyonight)
+ <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wennycampos&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wennyc&layout=compact&theme=tokyonight)
 <br>Welcome and see u! -->
 
 <br>
