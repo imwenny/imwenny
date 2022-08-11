@@ -19,17 +19,16 @@ I like technologies, programming, design, International Relations, art, games, u
 <img align="center" heigth="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg">
 </div
  
- <div align="center">
+<div align="center">
   <a href="https://github.com/wennyc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wennyc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wennyc&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wennyc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wennyc&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
  <br/>For more informations talk to me on:<br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/wennycampos/)](https://www.linkedin.com/in/wennycampos/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:wennyct@hotmail.com%22/%3E)](mailto:wennyct@gmail.com)
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wennycampos&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wennyc&layout=compact&theme=tokyonight)
 <br>Welcome and see u!
 <br>
 
-![Snake animation](https://github.com/wennycampos/wennyc/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/wennyc/wennyc/blob/output/github-contribution-grid-snake.svg)
