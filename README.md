@@ -29,7 +29,7 @@ I like technologies, programming, design, International Relations, art, games, u
 </div>
  
  <br/>For more informations talk to me on:<br/>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/wennycampos/)](https://www.linkedin.com/in/wennycampos/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:wennyct@hotmail.com%22/%3E)](mailto:wennyct@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/imwenny/)](https://www.linkedin.com/in/imwenny/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:wennyct@hotmail.com%22/%3E)](mailto:wennyct@gmail.com)
 
 Welcome and see u!
 <br>
