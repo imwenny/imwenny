@@ -22,9 +22,9 @@ I like technologies, programming, design, International Relations, art, games, u
 </div
  
 <div align="center">
-  <a href="https://github.com/wennyc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wennyc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wennyc&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/imwenny">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imwenny&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imwenny&layout=compact&langs_count=7&theme=tokyonight"/>
  </a>
 </div>
  
