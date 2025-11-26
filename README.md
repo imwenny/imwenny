@@ -24,7 +24,7 @@ I studying in post graduated in 'Ux Design and beyond' on PUC-RS.
 </div
  
  <br/>I love talking to new people about what I'm enthusiastic about. 
- Talk to me at:<br/>
+ <br>Talk to me at:<br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/imwenny/)](https://www.linkedin.com/in/imwenny/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:wennyct@hotmail.com%22/%3E)](mailto:wennyct@gmail.com)
 
 Welcome and see u!
